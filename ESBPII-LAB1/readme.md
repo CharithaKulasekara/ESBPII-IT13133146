@@ -79,5 +79,5 @@ Amazon EC2 Windows Instance
 22.	Access the localserver from the web browser (If there is a proper internet connection, server must be running correctly).
 ![](https://github.com/CharithaKulasekara/ESBPII-IT13133146/blob/master/ESBPII-LAB1/30.png)
 
-23.	Finally terminate the incetence.
+23.	Finally terminate the Instance.
 ![](https://github.com/CharithaKulasekara/ESBPII-IT13133146/blob/master/ESBPII-LAB1/31.png)

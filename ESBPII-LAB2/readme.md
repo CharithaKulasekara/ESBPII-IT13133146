@@ -53,5 +53,5 @@ Amazon EC2 Redhat Instances
 ![](https://github.com/CharithaKulasekara/ESBPII-IT13133146/blob/master/ESBPII-LAB2/18.png)
 ![](https://github.com/CharithaKulasekara/ESBPII-IT13133146/blob/master/ESBPII-LAB2/19.png)
 
-15.	Finally terminate the incetence.
+15.	Finally terminate the Instance.
 ![](https://github.com/CharithaKulasekara/ESBPII-IT13133146/blob/master/ESBPII-LAB2/20.png)

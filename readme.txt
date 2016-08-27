@@ -6,3 +6,4 @@ Lab1 - completed
 Lab2 - completed
 Lab3 - completed
 Lab4 - completed
+Lab5 - completed

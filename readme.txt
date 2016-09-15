@@ -7,3 +7,5 @@ Lab2 - completed
 Lab3 - completed
 Lab4 - completed
 Lab5 - completed
+Lab6 - completed
+Lab7 - completed
